@@ -32,12 +32,12 @@ header {
     border-bottom: solid 5px #323746;
 }
 
-.logo-litle {
+.logo-title {
     text-align: center;
     margin: 33px 0px 0px 40px;
 }
 
-.logo-litle .logo-text {
+.logo-title .logo-text {
     display: inline-block;
     margin: 10px -119px 0px -2px;
     font-size: 24px;
@@ -48,7 +48,7 @@ header {
     text-transform: uppercase;
 }
 
-.logo-litle span .red {
+.logo-title span .star {
     color: #f06c64;
 }
 
@@ -166,15 +166,18 @@ footer .services-title {
     flex-wrap: wrap;
     justify-content: space-between;
     align-content: space-between;
-    padding: 1.2%;
-    height: 48%;
+    padding: 1%;
+    height: 45%;
+    margin-left:14px;
+    margin-right: 22px;
 }
 
 .section {
     display: flex;
-    margin: 1%;
+    margin-left: 20.1px;
+    margin-top: 13px;
     width: 31%;
-    height: 41%;
+    height: 40%;
 }
 
 .circle-around {
@@ -186,21 +189,20 @@ footer .services-title {
     background-image: url(./assets/img/circle.svg);
     background-size: contain;
     width: 21%;
-    height: 61%;
+    height: 67.5%;
     background-repeat: no-repeat;
     border-radius: 29px;
 }
 
-
 .section img {
-    width: 62%;
-    height: 62%;
+    width: 61%;
+    height: 63%;
 }
 
 .section-text {
     margin-top: -9px;
-    margin-left: 15px;
-    margin-right: 10px;
+    margin-left: 20px;
+    margin-right: -10px;
 }
 
 .section h3 {
