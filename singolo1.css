@@ -166,7 +166,7 @@ footer .services-title {
     flex-wrap: wrap;
     justify-content: space-between;
     align-content: space-between;
-    padding: 3%;
+    padding: 1.2%;
     height: 48%;
 }
 
@@ -182,7 +182,7 @@ footer .services-title {
     justify-content: center;
     align-items: center;
     margin-top: 3%;
-    margin-left: -1%;
+    margin-left: -2%;
     background-image: url(./assets/img/circle.svg);
     background-size: contain;
     width: 21%;
@@ -198,8 +198,9 @@ footer .services-title {
 }
 
 .section-text {
-    margin-top: 3%;
-    margin-left: 20px;
+    margin-top: -9px;
+    margin-left: 15px;
+    margin-right: 10px;
 }
 
 .section h3 {
