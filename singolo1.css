@@ -62,6 +62,12 @@ navigation {
     margin: 0px 40px 0px 0px;
 }
 
+.nav-link:not(:last-child):after  {
+    content: "·";
+    color: #494e62;;
+    margin-left: 12px;
+
+}
 navigation a {
     display: inline-block;
     margin: 12% -1px 0px -2px;
